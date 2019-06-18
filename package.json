@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio11",
+  "version": "1.0.0",
+  "description": "Ejercicio de servidor web de archivos y creación de una cache.",
+  "main": "ejercicio11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tito1996/ejercicio11.git"
+  },
+  "author": "Tito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tito1996/ejercicio11/issues"
+  },
+  "homepage": "https://github.com/Tito1996/ejercicio11#readme"
+}
